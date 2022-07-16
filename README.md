@@ -10,3 +10,4 @@
 
  ## Рассказы - Narrations:
  - ### [Теория Воды - The Theory Of Water](/narrations/TheTheoryOfWater.md)
+ - ### [Сонная Ревность - The Sleppy Jealousy](/narrations/SleppyJealousy.md)
