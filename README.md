@@ -2,9 +2,9 @@
 
 ## Поэмы - Poems:
   - ### [Смутное Время - Time Of Troubles](/poems/TimeOfTroubles.md) ✅
-  - ### [Обнять тебя - Hug You](/poems/HugYou.md) ✅💚
-  - ### [Беспечность - Carelessness](/poems/Carelessness.md) ✅
-  - ### [Чувства - Feelings](/poems/Feelings.md) ✅💚
+  - ### [Обнять тебя - Hug You](/poems/HugYou.md) ✅💛
+  - ### [Беспечность - Carelessness](/poems/Carelessness.md) ✅💛
+  - ### [Чувства - Feelings](/poems/Feelings.md) ✅❤
   - ### [Екатерина - Ekaterina](/poems/Ekaterina.md) ✅
   - ### [Не загоняйся - Don't Catch Up](/poems/DontCatchUp.md)
   - ### [Я Двуличный - I'm Two-Faced](/poems/ImTwoFaced.md)
