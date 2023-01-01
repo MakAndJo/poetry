@@ -1,7 +1,7 @@
 # Поэзия - Poetry
 
 ## Поэмы - Poems:
-  - ### [Смутное Время - Time Of Troubles](/poems/TimeOfTroubles.md) ✅💿
+  - ### [Смутное Время - Time Of Troubles](/poems/TimeOfTroubles.md) ✅💜💿
   - ### [Обнять тебя - Hug You](/poems/HugYou.md) ✅💛
   - ### [Беспечность - Carelessness](/poems/Carelessness.md) ✅💛💿
   - ### [Чувства - Feelings](/poems/Feelings.md) ✅❤
