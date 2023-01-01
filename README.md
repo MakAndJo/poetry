@@ -10,7 +10,7 @@
   - ### [Я Двуличный - I'm Two-Faced](/poems/ImTwoFaced.md)
   - ### [Школьный песпредел - School Mayhem](/poems/SchoolMayhem.md) ✅
   - ### [Пажилой Бэдбой - Old BadBoy](/poems/OldBadBoy.md)
-  - ### [Мусор (Дисс на Кирилла) - Junk (Disrespect of Kyril)](/poems/Junk.md)
+  - ### [Мусор (Дисс на Кирилла) - Junk (Disrespect of Kyril)](/poems/Junk.md) ✅
 
  ## Рассказы - Narrations:
   - ### [За партой с Катей Гопп - At The Desk With Kate Gopp](/narrations/AtTheDeskWithGopp.md) ✅
