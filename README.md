@@ -1,6 +1,7 @@
 # Поэзия - Poetry
 
 ## Поэмы - Poems:
+  - ### [Невербальная тоска - Nonverbal Sadness](/poems/NonverbalSadness.md) ✅💜
   - ### [Смутное Время - Time Of Troubles](/poems/TimeOfTroubles.md) ✅💜💿
   - ### [Обнять тебя - Hug You](/poems/HugYou.md) ✅💛
   - ### [Беспечность - Carelessness](/poems/Carelessness.md) ✅💛💿
