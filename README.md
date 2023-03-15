@@ -17,12 +17,12 @@
 ### 3. Фокусы с пивом:
   - [Беспечность](/poems/Carelessness.md) | ✅💛💿
   - [Сонная Ревность](/narrations/SleppyJealousy.md) | ✅
-  - [За партой с Катей Гопп](/narrations/AtTheDeskWithGopp.md) | ✅
+  - [За партой с Катей Гопп](/narrations/AtTheDeskWithGopp.md) | ✅💜
   - [Обнять тебя](/poems/HugYou.md) | ✅💛
   - [Смутное Время](/poems/TimeOfTroubles.md) | ✅💜💿
 
 ### 4. Политическое мурчание:
   - [Невербальная тоска](/poems/NonverbalSadness.md) | ✅💜
   - [Потеряно счастье](/poems/LostHappiness.md) | ✅💜
-  - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕💜
+  - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕💛
   - [Ron De Signey](/narrations/RonDeSigney.md) | ⭕
