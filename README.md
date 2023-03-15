@@ -25,4 +25,4 @@
   - [Невербальная тоска](/poems/NonverbalSadness.md) | ✅💜
   - [Потеряно счастье](/poems/LostHappiness.md) | ✅💜
   - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕💛
-  - [Ron De Signey](/narrations/RonDeSigney.md) | ⭕
+  - [Ron de Signey](/narrations/RonDeSigney.md) | ⭕
