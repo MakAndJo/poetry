@@ -2,7 +2,7 @@
 
 ### 0. Борьба за картон:
   - [Мусор (Дисс на Кирилла)](/poems/Junk.md) | ✅💙💿
-  - [Пажилой Бэдбой](/poems/OldBadBoy.md) | ⁉
+  - [Пажилой Бэдбой](/poems/OldBadBoy.md) ⁉
   - [Школьный песпредел](/poems/SchoolMayhem.md) | ✅💙
   
 ### 1. Марафон за сырок:
@@ -11,8 +11,8 @@
   - [Чувства](/poems/Feelings.md) | ✅❤
   
 ### 2. Чарон и бейби:
-  - [Я Двуличный](/poems/ImTwoFaced.md) | ⁉
-  - [Не загоняйся](/poems/DontCatchUp.md) | ⁉
+  - [Я Двуличный](/poems/ImTwoFaced.md) ⁉
+  - [Не загоняйся](/poems/DontCatchUp.md) ⁉
 
 ### 3. Фокусы с пивом:
   - [Беспечность](/poems/Carelessness.md) | ✅💛💿
