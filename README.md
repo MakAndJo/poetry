@@ -23,6 +23,6 @@
 
 ### 4. Политическое мурчание:
   - [Невербальная тоска](/poems/NonverbalSadness.md) | ✅💜
-  - [Потеряно счастье](/poems/LostHappiness.md) | ✅💜
   - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕💛
+  - [Потеряно счастье](/poems/LostHappiness.md) | ✅💜
   - [Ron de Signey](/narrations/RonDeSigney.md) | ⭕
