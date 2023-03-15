@@ -2,17 +2,17 @@
 
 ### 0. Борьба за картон:
   - [Мусор (Дисс на Кирилла)](/poems/Junk.md) | ✅💙💿
-  - [Пажилой Бэдбой](/poems/OldBadBoy.md)
+  - [Пажилой Бэдбой](/poems/OldBadBoy.md) ⁉
   - [Школьный песпредел](/poems/SchoolMayhem.md) | ✅💙
   
 ### 1. Марафон за сырок:
   - [Екатерина](/poems/Ekaterina.md) | ✅💙💿
-  - [Теория Воды](/narrations/TheTheoryOfWater.md)
+  - [Теория Воды](/narrations/TheTheoryOfWater.md) ⁉
   - [Чувства](/poems/Feelings.md) | ✅❤
   
 ### 2. Чарон и бейби:
-  - [Я Двуличный](/poems/ImTwoFaced.md)
-  - [Не загоняйся](/poems/DontCatchUp.md)
+  - [Я Двуличный](/poems/ImTwoFaced.md) ⁉
+  - [Не загоняйся](/poems/DontCatchUp.md) ⁉
 
 ### 3. Фокусы с пивом:
   - [Беспечность](/poems/Carelessness.md) | ✅💛💿
@@ -24,4 +24,5 @@
 ### 4. Политическое мурчание:
   - [Невербальная тоска](/poems/NonverbalSadness.md) | ✅💜
   - [Потеряно счастье](/poems/LostHappiness.md) | ✅💜
-  - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | 💜
+  - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕💜
+  - [Ron De Signey](/narrations/RonDeSigney.md) | ⭕
