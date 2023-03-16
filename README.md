@@ -16,8 +16,8 @@
 
 ### 3. Фокусы с пивом:
   - [Беспечность](/poems/Carelessness.md) | ✅ 💛 🔷 💿
-  - [Сонная Ревность](/narrations/SleppyJealousy.md) | ✅
-  - [За партой с Катей Гопп](/narrations/AtTheDeskWithGopp.md) | ✅ 🔷
+  - [Сонная Ревность](/narrations/SleppyJealousy.md) | ✅ 🔷
+  - [За партой с Катей Гопп](/narrations/AtTheDeskWithGopp.md) | ✅
   - [Обнять тебя](/poems/HugYou.md) | ✅ 💛 🔷
   - [Смутное Время](/poems/TimeOfTroubles.md) | ✅ 💜 🔷 💿
 
