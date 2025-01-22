@@ -27,7 +27,7 @@
   - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕ 💛
   - [Потеряно счастье](/poems/LostHappiness.md) | ✅ 💜
   - [Ron de Signey](/narrations/RonDeSigney.md) | ⭕
-  - [хуй дрисня фекадии](/poems/HuiDrisnyaFekalii.md) | ✅ 💜 💿
+  - [хуй дрисня фекалии](/poems/HuiDrisnyaFekalii.md) | ✅ 💜 💿
 
 #### Расшифровка:
 ✅ - окончательно завершён \
