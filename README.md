@@ -27,7 +27,9 @@
   - [Всё оказалось гораздо проще](/poems/EverythingSeemToBeEasier.md) | ⭕ 💛
   - [Потеряно счастье](/poems/LostHappiness.md) | ✅ 💜
   - [Ron de Signey](/narrations/RonDeSigney.md) | ⭕
-  - [хуй дрисня фекалии](/poems/HuiDrisnyaFekalii.md) | ✅ 💜 💿
+
+### 5. Гидрокуртизанка:
+  - [ХДФ (хуй дрисня фекалии)](/poems/HuiDrisnyaFekalii.md) | ✅ 💜 💿
   - [Она ушла](/poems/ShesLeft.md) | ✅ 💛 💿
 
 #### Расшифровка:
