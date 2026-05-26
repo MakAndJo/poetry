@@ -29,6 +29,7 @@
   - [Ron de Signey](/narrations/RonDeSigney.md) | ⭕
 
 ### 5. Гидрокуртизанка:
+  - [Однажды](/poems/once.md) | ✅ 💛
   - [ХДФ (хуй дрисня фекалии)](/poems/HuiDrisnyaFekalii.md) | ✅ 💜 💿
   - [Она ушла](/poems/ShesLeft.md) | ✅ 💛 💿
 
